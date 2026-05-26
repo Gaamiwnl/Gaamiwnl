@@ -2,15 +2,7 @@
 ## 👨‍💻 Felipe Andrade
 `Software Engineer`
 
-<p align="left">
-  <a href="https://github.com/Gaamiwnl">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaamiwnl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-
-  <a href="https://github.com/Gaamiwnl">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaamiwnl&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</p>
+<a href="https://github.com/Gaamiwnl"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gaamiwnl&theme=tokyonight&cache_seconds=60" /> </a> <a href="https://github.com/Gaamiwnl"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaamiwnl&layout=compact&langs_count=8&card_width=320&theme=tokyonight" /> </a>
 
 ---
 
